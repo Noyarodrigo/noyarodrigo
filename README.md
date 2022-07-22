@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Noya</h1>
 <h3 align="center">A Computer engineering student from Argentina, I'm currently on my last courses</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noyarodrigo&label=Profile%20views&color=0e75b6&style=flat" alt="noyarodrigo" /> </p>
+- 🤝 I’m currently working on an automation personal business [Auto Carga](https://github.com/Noyarodrigo/Gestion-Usuarios)
 
-- 🔭 I’m currently working on an automation personal business [Auto Carga](https://github.com/Noyarodrigo/Gestion-Usuarios)
-
-- 🌱 I’m currently learning about cloud technologies and DevOps **Docker, Kubernetes, GCP and Terraform**
+- 👨‍💻 I’m currently learning about cloud technologies and DevOps **Docker, Kubernetes, GCP and Terraform**
 
 - 📫 How to reach me **rodrinoya.1@gmail.com**
 
