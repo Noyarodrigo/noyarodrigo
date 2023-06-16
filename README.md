@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Noya</h1>
-<h3 align="center">A Computer engineering student from Argentina, I'm currently on my last courses</h3>
+<h3 align="center">I'm a Computer engineer (ingeniero en computación) from Argentina</h3>
 
-- :computer: I'm currently working as Jr. **DevOps engineer** at Silice (MDZ, ARG).
+- :computer: I'm currently working as **DevOps engineer** at Silice (MDZ, ARG).
 
 - 🤝 Check my automation personal business [Auto Carga](https://github.com/Noyarodrigo/Gestion-Usuarios).
 
-- 👨‍💻 I’m learning about cloud technologies and DevOps **Docker, Kubernetes, ansible, GCP and Terraform**
+- 👨‍💻 I’m learning and using cloud technologies as **Docker, Kubernetes, ansible, GCP and Terraform**
 
 - 📫 How to reach me **rodrinoya.1@gmail.com**
 
