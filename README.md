@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Noya</h1>
 <h3 align="center">I'm a Computer engineer (ingeniero en computación) from Argentina</h3>
 
+
 - :computer: I'm currently working as **DevOps engineer** at Silice (MDZ, ARG).
 
 - 🤝 Check my automation personal business [Auto Carga](https://github.com/Noyarodrigo/Gestion-Usuarios).
 
-- 👨‍💻 I’m learning and using cloud technologies as **Docker, Kubernetes, ansible, GCP and Terraform**
+- 👨‍💻 I’m working with vaious cloud technologies as **Docker, Kubernetes, ansible, GCP and Terraform**
 
 - 📫 How to reach me **rodrinoya.1@gmail.com**
 
 ---
 
-- Check my [HomeLab configuration](https://github.com/Noyarodrigo/Vagrant-Ansible-homelab) (Vagrant + ansible + vimrc)
+- Check some of my projects:
+  - Under construction
+  - [HomeLab configuration](https://github.com/Noyarodrigo/Vagrant-Ansible-homelab) (Vagrant + ansible + vimrc)
 
 ---
 
