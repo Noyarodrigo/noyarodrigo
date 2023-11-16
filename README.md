@@ -20,7 +20,7 @@
   - [IoT python server for data acquiring from sensors (old project)](https://github.com/Noyarodrigo/Pylogger) (Python, threads and concurrency project)
   - [IoT fire prevention system with cameras](https://github.com/Noyarodrigo/FPS-Fire-Prevention-System/blob/master/LICENSE) (Python, Thinkspeak platform, read the license)
   - [K8S Wordpress simple project](https://github.com/Noyarodrigo/UM-K8S) (K8S)
-  - [Terraform recipes for multiserver wordpress installation on VMs] (Terraform)
+  - [Terraform recipes for multiserver wordpress installation on VMs](https://github.com/Noyarodrigo/Terraform-UMCloud) (Terraform)
   - [HomeLab configuration](https://github.com/Noyarodrigo/Vagrant-Ansible-homelab) (Vagrant + ansible + vimrc)
   
 ---
