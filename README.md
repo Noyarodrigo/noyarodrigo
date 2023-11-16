@@ -12,12 +12,17 @@
 
 ---
 
-- Check some of my projects: (it's organized as <project> (<technologies i've used there>)
+- Check some of my projects: (At the end you can see the technologies I've used)
   - [Prometheus snapshots to GCP bucket](https://github.com/Noyarodrigo/prometheus-snapshots-gcp-bucket) (K8S, Terraform, GCP, Python)
   - [Tool to push Nginx and PHP-FPM custom metrics to AWS Cloudwatch](https://github.com/Noyarodrigo/cloudwatch_nginx_phpfpm_logger) (AWS, Python, Docker)
   - [IoT smart garden on the Cloud](https://github.com/Noyarodrigo/MendoPonics) (GCP IoT stack, Flask, Docker, Terraform)
+  - [PiHole install automation (Arch)](https://github.com/Noyarodrigo/Make_Pi_Hole) (Bash, make, Docker)
+  - [IoT python server for data acquiring from sensors (old project)](https://github.com/Noyarodrigo/Pylogger) (Python, threads and concurrency project)
+  - [IoT fire prevention system with cameras](https://github.com/Noyarodrigo/FPS-Fire-Prevention-System/blob/master/LICENSE) (Python, Thinkspeak platform, read the license)
+  - [K8S Wordpress simple project](https://github.com/Noyarodrigo/UM-K8S) (K8S)
+  - [Terraform recipes for multiserver wordpress installation on VMs] (Terraform)
   - [HomeLab configuration](https://github.com/Noyarodrigo/Vagrant-Ansible-homelab) (Vagrant + ansible + vimrc)
-
+  
 ---
 
 <h3 align="left">Connect with me:</h3>
