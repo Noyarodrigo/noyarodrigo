@@ -12,8 +12,10 @@
 
 ---
 
-- Check some of my projects:
-  - Under construction -> see the repos for now
+- Check some of my projects: (it's organized as <project> (<technologies i've used there>)
+  - [Prometheus snapshots to GCP bucket](https://github.com/Noyarodrigo/prometheus-snapshots-gcp-bucket) (K8S, Terraform, GCP, Python)
+  - [Tool to push Nginx and PHP-FPM custom metrics to AWS Cloudwatch](https://github.com/Noyarodrigo/cloudwatch_nginx_phpfpm_logger) (AWS, Python, Docker)
+  - [IoT smart garden on the Cloud](https://github.com/Noyarodrigo/MendoPonics) (GCP IoT stack, Flask, Docker, Terraform)
   - [HomeLab configuration](https://github.com/Noyarodrigo/Vagrant-Ansible-homelab) (Vagrant + ansible + vimrc)
 
 ---
