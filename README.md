@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Computer engineer (ingeniero en computación) from Argentina</h3>
 <br>
 
-- :computer: I'm currently working as a **DevOps engineer** at Silice (MDZ, ARG).
+- :computer: I'm currently working as a **SRE for Operations** at Possumus (MDZ, ARG).
 
 - 🤝 Check my automation personal business [Auto Carga](https://github.com/Noyarodrigo/Gestion-Usuarios).
 
